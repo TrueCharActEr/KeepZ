@@ -11,7 +11,7 @@ git commit -m "first commit"
 
 git branch -M main
 
-git remote add origin https://github.com/TrueCharActEr/ddd.git
+git remote add origin https://github.com/TrueCharActEr/KeepZ.git
 
 git push -u origin main
 
@@ -19,7 +19,7 @@ git push -u origin main
 
 # запушить файлы на репозиторию в гитхабе
 
-git remote add origin https://github.com/TrueCharActEr/ddd.git
+git remote add origin https://github.com/TrueCharActEr/KeepZ.git
 
 git branch -M main
 
@@ -34,3 +34,7 @@ git push -u origin main (пуш мид)
 # из гитхаба скачать в выбранную папку
 
 git clone "https://github.com/TrueCharActEr/zalupa.git" (копировать ссылку с своего репозитория)
+
+
+# Откуда пиздим основу
+git clone https://github.com/chrisvel/tududi.git
